@@ -14,3 +14,5 @@ tubes will be represented with letters.
 
 ## Notes
 Although it is working fine, I'm not confident to tell that this was a well-written program. It can be improved a lot in both performance & memory management-wise. But since this was a project to develop algorithm building skills, my main focus was to create a functioning game, and I didn't consider other things. So I'm pretty sure there are better and smarter approaches out there than what I did here.
+
+There's a project report I wrote (to deliver to my instructor) that can be found in the visual studio solution folder, which describes the flow of the program and the reasoning behind it, better.
